@@ -1,0 +1,16 @@
+{
+    "name": "xxggabriel/senha-eletronica",
+    "authors": [
+        {
+            "name": "Gabriel Oliveira",
+            "email": "gabrieloliveradesouza9@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "3.*"
+    }, "autoload": {
+        "psr-4": {
+            "SenhaEletronica\\" : "src\\"
+        }
+    }
+}
